@@ -19,13 +19,36 @@
 **Tools**: KodeKloud, IntelliJ, VS Code, GitHub Actions  
 **OS**: Ubuntu (WSL2), RHEL
 
-### 🔧 DevOps Tools & Platforms
+## 🛠️ DevOps Tools & Platforms
 
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker)
-![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat&logo=github-actions)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux)
-![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat&logo=ubuntu)
+<p align="center">
+  <!-- Version Control -->
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
+
+  <!-- Containers & Orchestration -->
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+
+  <!-- CI/CD & Automation -->
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" />
+
+  <!-- Monitoring & Observability -->
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
+
+  <!-- Cloud & OS -->
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
+  <img src="https://img.shields.io/badge/RedHat-EE0000?style=for-the-badge&logo=redhat&logoColor=white" />
+
+  <!-- Scripting & Infra -->
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+  <img src="https://img.shields.io/badge/YAML-000000?style=for-the-badge&logo=yaml&logoColor=white" />
+</p>
+
 
 ---
 
