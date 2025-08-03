@@ -2,14 +2,12 @@
 
 🎓 B.E. Computer Science Student | 🚀 Aspiring DevOps + AIOps Engineer  
 🎯 Currently learning DevOps (Docker, K8s, CI/CD) & DSA in Java  
-🛠️ Building: **DevSyncX** – One-click DevOps lab setup tool  
+🛠️ Building: **MetricSync** – SaaS tool for analyzing DORA metrics (MVP design stage)
 
 ---
 
 ## 🚀 Projects
-- 🔧 **DevSyncX** – DevOps CLI for automating lab setup *(in progress)*
-- 📚 **Universal Study Tracker** – Java console app with File I/O
-
+- 📊 **MetricSync** – SaaS tool for analyzing DORA metrics (MVP design stage)  
 ---
 
 ## 🧰 Tech Stack
