@@ -56,7 +56,7 @@
 
 - 📚 Learning from: [KodeKloud](https://kodekloud.com/), [Kunal Kushwaha](https://github.com/kunal-kushwaha)
 - 🧪 Preparing for: **KCNA** + **CKA**
-- 🌐 Open to contributing to: CNCF projects
+- 🌐 Exploring: CNCF Projects, Real-World DevOps Architectures 
 
 ---
 
