@@ -6,8 +6,10 @@
 
 ---
 
-## 🚀 Projects
-- 📊 **MetricSync** – SaaS tool for analyzing DORA metrics (MVP design stage)  
+## 🚀 Project Spotlight
+
+- 📊 **MetricSync** – SaaS platform for automating DORA metrics collection and visualization  
+  ↳ *Tech: GitHub API, Jenkins, Prometheus, MongoDB, Node.js, Docker* 
 ---
 
 ## 🧰 Tech Stack
