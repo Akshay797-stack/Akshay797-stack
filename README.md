@@ -74,10 +74,10 @@ I write about **technology, startups, and the intersection of code × meaning** 
 
 ### ⚡ GitHub Stats  
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akshaychandar&show_icons=true&theme=tokyonight&hide_border=true" height="160px" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akshaychandar&theme=tokyonight&hide_border=true" height="160px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Akshay797-stack&show_icons=true&theme=tokyonight&hide_border=true" height="160px" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Akshay797-stack&theme=tokyonight&hide_border=true" height="160px" />
   <br/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=akshaychandar&theme=tokyo-night&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Akshay797-stack&theme=tokyo-night&hide_border=true" />
 </div>
 
 ---
