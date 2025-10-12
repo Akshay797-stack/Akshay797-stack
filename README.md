@@ -1,76 +1,85 @@
-# 👋 Hi, I'm Akshay Chandar
-
-🎓 B.E. Computer Science Student | 🚀 Aspiring DevOps + AIOps Engineer  
-🎯 Currently learning DevOps (Docker, K8s, CI/CD) & DSA in Java  
-🛠️ Building: **MetricSync** – SaaS tool for analyzing DORA metrics (MVP design stage)
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=2AA889&width=480&lines=Hi+there%2C+I'm+Akshay+Chandar;AI%2FML+%26+DevOps+Engineer;Deep+Learning+%26+Systems+Builder;Explorer+of+Applied+Science+%26+Automation" alt="Typing SVG" />
+</div>
 
 ---
 
-## 🚀 Project Spotlight
+### 🧠 About Me  
+💡 *“Science is the source. Applied science is the engine. Technology, business & society flow downstream.”*  
 
-- 📊 **MetricSync** – SaaS platform for automating DORA metrics collection and visualization  
-  ↳ *Tech: GitHub API, Jenkins, Prometheus, MongoDB, Node.js, Docker* 
----
+I’m a **Computer Science student and builder**, passionate about **AI / ML, Deep Learning, DevOps, and Infrastructure Engineering** — where applied science meets scalable systems.  
+My focus is on **building intelligent and automated tools** that turn complex systems into elegant, self-scaling products.  
 
-## 🧰 Tech Stack
-
-**Languages**: Java, Bash, YAML, Python  
-**DevOps**: Git, Docker, Linux, CI/CD, Apache, Tomcat  
-**Tools**: KodeKloud, IntelliJ, VS Code, GitHub Actions  
-**OS**: Ubuntu (WSL2), RHEL
-
-## 🛠️ DevOps Tools & Platforms
-
-<p align="center">
-  <!-- Version Control -->
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
-
-  <!-- Containers & Orchestration -->
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-
-  <!-- CI/CD & Automation -->
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" />
-
-  <!-- Monitoring & Observability -->
-  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />
-  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
-
-  <!-- Cloud & OS -->
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
-  <img src="https://img.shields.io/badge/RedHat-EE0000?style=for-the-badge&logo=redhat&logoColor=white" />
-
-  <!-- Scripting & Infra -->
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
-  <img src="https://img.shields.io/badge/YAML-000000?style=for-the-badge&logo=yaml&logoColor=white" />
-</p>
-
+> ⚙️ I believe the future belongs to those who apply knowledge uniquely — blending systems thinking, AI intelligence, and a builder’s mindset.
 
 ---
 
-## 📈 Currently
-
-- 📚 Learning from: [KodeKloud](https://kodekloud.com/), [Kunal Kushwaha](https://github.com/kunal-kushwaha)
-- 🧪 Preparing for: **KCNA** + **CKA**
-- 🌐 Exploring: CNCF Projects, Real-World DevOps Architectures 
-
----
-
-## 📫 Connect with Me
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/akshay-chandar-0129b7291)  
-- 📧 Email: akshaychandarm.24csd@kongu.edu  
+### 🚀 What I’m Currently Building
+- **🧩 Orches** → LLM-powered **AIOps 2.0 orchestrator** for DevOps, SRE & Infra teams  
+- **📊 Anametric** → **DORA metrics analytics platform (SaaS)** blending DevOps + AIOps  
+- **🧰 DevSync** → One-click **DevOps lab setup tool** for students & engineers  
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Akshay797-stack&theme=tokyonight&hide_border=true" alt="Akshay's GitHub Streak" />
-</p>
+### 🧩 Tech Stack & Tools
+
+#### 🧑‍💻 Languages  
+`Python` · `Java` · `JavaScript (Next.js)` · `Bash` · `YAML`
+
+#### ⚙️ DevOps & Infrastructure  
+`Linux` · `Git` · `Docker` · `Kubernetes` · `Jenkins` · `Prometheus` · `Grafana` · `Nginx` · `Vagrant` · `Terraform` · `Ansible` · `CI/CD`
+
+#### ☁️ Cloud & Environments  
+`AWS (EC2, S3, EKS)` · `GCP` · `Azure` · `WSL2` · `Ubuntu Server`
+
+#### 🤖 AI / ML / Deep Learning  
+`PyTorch` · `TensorFlow` · `Keras` · `Scikit-learn` · `LangChain` · `Transformers` · `Pandas` · `NumPy` · `OpenAI API`
+
+#### 🧮 Databases & Storage  
+`MySQL` · `PostgreSQL` · `MongoDB` · `Redis` · `Vector DB (Pinecone, Weaviate)`
+
+#### 💻 Development & Frontend  
+`Next.js (App Router)` · `React` · `Tailwind CSS` · `Framer Motion` · `Lucide Icons`
+
+#### 🔐 Tools & Utilities  
+`VS Code` · `Postman` · `GitHub Actions` · `Obsidian` · `Figma` · `Notion` · `KodeKloud Labs`
 
 ---
 
-⭐ *“Keep learning, keep shipping.”*
+### 📚 Learning & Exploring
+- Deep-diving into **AI + DevOps synergy** (AIOps / MLOps)  
+- Exploring **Neural Architectures & LLMs** for systems intelligence  
+- Practicing **real-world DevOps** deployments via KodeKloud Engineer  
+
+---
+
+### 🧭 Philosophy
+> “Keep learning. Keep building. Keep sharing what compounds.”  
+
+I write about **technology, startups, and the intersection of code × meaning** — because I believe applied knowledge, shared consistently, shapes exponential futures.
+
+---
+
+### 🌐 Connect with Me
+<div align="center">
+  <a href="https://linkedin.com/in/akshaychandar" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:akshaychandar.dev@gmail.com">
+    <img src="https://img.shields.io/badge/Email-akshaychandar.dev%40gmail.com-red?style=for-the-badge&logo=gmail" />
+  </a>
+</div>
+
+---
+
+### ⚡ GitHub Stats  
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=akshaychandar&show_icons=true&theme=tokyonight&hide_border=true" height="160px" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akshaychandar&theme=tokyonight&hide_border=true" height="160px" />
+  <br/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=akshaychandar&theme=tokyo-night&hide_border=true" />
+</div>
+
+---
+
+⭐ *“Applied knowledge compounds. Let’s build what matters.”*  
