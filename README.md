@@ -62,10 +62,10 @@ I write about **technology, startups, and the intersection of code × meaning** 
 
 ### 🌐 Connect with Me
 <div align="center">
-  <a href="https://linkedin.com/in/akshaychandar" target="_blank">
+  <a href="https://www.linkedin.com/in/akshay-chandar-0129b7291/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="mailto:akshaychandar.dev@gmail.com">
+  <a href="mailto:akshaychandarm.24csd@kongu.edu">
     <img src="https://img.shields.io/badge/Email-akshaychandar.dev%40gmail.com-red?style=for-the-badge&logo=gmail" />
   </a>
 </div>
